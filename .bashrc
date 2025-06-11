@@ -1,1 +1,1 @@
-bash
+echo "Dotfiles loaded successfully!"
